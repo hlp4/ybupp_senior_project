@@ -11,7 +11,3 @@ python app.py
 cd frontend
 npm install
 npx expo start
-
-### Testing Limitation
-Currently, only Sillibutt and The Nuttery have data populated.
-You should also install the app Expo Go to properly view how its intended.
