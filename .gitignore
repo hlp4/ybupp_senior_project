@@ -1,0 +1,36 @@
+# ========================
+# Python / Flask
+# ========================
+
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+instance/
+.env
+.flaskenv
+
+# HTTPS certificates
+*.pem
+*.key
+*.crt
+
+# ========================
+# React Native / Expo
+# ========================
+
+node_modules/
+.expo/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+
+# ========================
+# System / Editor
+# ========================
+
+.DS_Store
+.vscode/
